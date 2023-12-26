@@ -6,3 +6,6 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-dias-martins-26739b251/)
 
 ## Tecnologia que uso no meu dia a dia.
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+</div>
