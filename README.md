@@ -1,4 +1,4 @@
-### Olá! Eu sou o Caio Dias, Desenvolvedor Back-end Java. ♨️
+### Olá! Eu sou o Caio Dias, Desenvolvedor Back-end Python. ♨️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devCaiodias&show_icons=true&theme=onedark)
 
 <div style="display: inline_block"><br>
