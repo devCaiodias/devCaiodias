@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/9f/f9/a0/9ff9a0ab222bd787ca99c7cf3b96b8eb.jpg"  />
+<img align="right" height="150" src="https://i.pinimg.com/564x/3e/49/48/3e4948031e386056b3f64bc8b1d1414d.jpg"  />
 
 ###
 
@@ -47,5 +47,7 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/devCaiodias/devCaiodias/output/snake.svg" alt="Snake animation" />
 
 ###
