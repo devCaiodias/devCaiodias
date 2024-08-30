@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Eu sou o Caio Dias, Desenvolvedor Back-end Python. 🐍</h2>
+<h2 align="left">Olá! Eu sou o Caio Dias, Developer Web / Software FullStack 🐍</h2>
 
 ###
 
