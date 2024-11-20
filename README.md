@@ -1,4 +1,4 @@
-<h2 align="center">Meu nome é Caio, estou cursando o curso de Engenharia de Software na Fiap. Tenho conhecimento em HTML, CSS, JavaScript, TypeScript, React, Vue.js e Next.js, além de experiência em desenvolvimento front-end e projetos práticos. Caso tenha interesse, estou à disposição para conversarmos!</h2>
+<h2 align="center">Meu nome é Caio! estou cursando o curso de Engenharia de Software na Fiap. Tenho conhecimento em HTML, CSS, JavaScript, TypeScript, React, Vue.js e Next.js, além de experiência em desenvolvimento front-end e projetos práticos. Caso tenha interesse, estou à disposição para conversarmos!</h2>
 
 ###
 
