@@ -1,14 +1,11 @@
 <h2 align="center">Meu nome é Caio! estou cursando o curso de Engenharia de Software na Fiap. Tenho conhecimento em HTML, CSS, JavaScript, TypeScript, React, Vue.js e Next.js, além de experiência em desenvolvimento front-end e projetos práticos. Caso tenha interesse, estou à disposição para conversarmos!</h2>
 
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devCaiodias&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devCaiodias&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://github.com/devCaiodias">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devCaiodias&show_icons=true&theme=ocean_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devCaiodias&layout=compact&theme=ocean_dark"/>
 </div>
 
-
-###
 
 <img align="right" height="150" src="https://i.pinimg.com/564x/3e/49/48/3e4948031e386056b3f64bc8b1d1414d.jpg"  />
 
