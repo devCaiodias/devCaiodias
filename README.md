@@ -7,10 +7,6 @@
 </div>
 
 
-<img align="right" height="150" src="https://i.pinimg.com/564x/3e/49/48/3e4948031e386056b3f64bc8b1d1414d.jpg"  />
-
-###
-
 <div style="display: inline_block" align="center"><br>
   <h3>Technologies</h3>
   <img alt="Roger-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,9 +15,7 @@
   <img alt="Roger-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="Roger-VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img alt="Roger-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-
   
-###
 
 <div align="center"> 
   <h3>Contact me</h3>
