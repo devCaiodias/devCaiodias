@@ -28,6 +28,11 @@
 
 
   ##
+  <h3>Estudando no momento</h3>
+
+  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  
+  ##
 
 <div align="center"> 
   <h3>Contact me</h3>
