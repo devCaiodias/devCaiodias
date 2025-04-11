@@ -1,4 +1,5 @@
-<h2 align="center">Me chamo Caio e sou estudante de Engenharia de Software na FIAP. Tenho experiência em desenvolvimento front-end. Além disso, já trabalhei em projetos práticos que envolvem criação de interfaces dinâmicas e consumo de APIs. Estou em busca de oportunidades para aplicar e expandir minhas habilidades. Ficarei feliz em conversar!</h2>
+<p align="center">Me chamo Caio, sou estudante de Engenharia de Software na FIAP e transformo ideias em experiências digitais funcionais, acessíveis e visualmente atrativas. Sempre fui curioso por tecnologia e encontrei no front-end uma forma de unir lógica, criatividade e impacto real na vida das pessoas.
+  Atuo como desenvolvedor front-end, com foco em interfaces modernas e responsivas. Trabalho com HTML, CSS, JavaScript, TypeScript, React, Node.js, Next.js e Tailwind CSS, além de utilizar Figma para desenhar interfaces que entregam valor desde o primeiro clique. Já participei de projetos acadêmicos e pessoais que me permitiram aplicar boas práticas, aprender em equipe e evoluir constantemente com feedbacks e desafios reais.</p>
 
 ##
 
